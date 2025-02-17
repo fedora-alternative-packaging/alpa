@@ -2,7 +2,6 @@
 Classes for communication with Alpa subdirectory type of git
 """
 
-
 from pathlib import Path
 from typing import Optional
 

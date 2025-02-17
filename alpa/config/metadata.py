@@ -2,7 +2,6 @@
 Config class for package metadata
 """
 
-
 from os import getcwd
 from pathlib import Path
 from typing import Optional

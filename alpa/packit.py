@@ -3,7 +3,6 @@ Class that generates packit.yaml config based on other configs like
 Alpa repo or package metadata config
 """
 
-
 from os import getcwd
 from pathlib import Path
 
