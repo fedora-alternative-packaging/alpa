@@ -2,7 +2,6 @@
 These commands need GH API token.
 """
 
-
 from os import getcwd
 from pathlib import Path
 

@@ -1,6 +1,7 @@
 """
 Class for local cli config
 """
+
 import logging
 from os.path import isfile
 from pathlib import Path

@@ -2,7 +2,6 @@
 File for really long messages.
 """
 
-
 NO_GH_API_KEY_FOUND = (
     "No GitHub API key found. Please set the {token} environment variable and"
     " pass the GitHub API token to it or set it in alpa.yaml config file. \n"

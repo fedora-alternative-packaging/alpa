@@ -1,6 +1,7 @@
 """
 Wrapper aroung pygithub API since the documentation is awful..
 """
+
 import logging
 from os import getenv
 from typing import Optional

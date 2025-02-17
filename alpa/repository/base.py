@@ -2,6 +2,7 @@
 Set of commands that helps with integration of Alpa
 repository.
 """
+
 import logging
 import subprocess
 from abc import ABC, abstractmethod

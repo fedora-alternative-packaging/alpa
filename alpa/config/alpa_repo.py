@@ -2,7 +2,6 @@
 Config class for Alpa repository.
 """
 
-
 import subprocess
 from enum import Enum
 from pathlib import Path

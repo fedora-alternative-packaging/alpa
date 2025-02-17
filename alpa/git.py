@@ -1,6 +1,7 @@
 """
 Wrapper around git cmd using subprocess
 """
+
 import asyncio
 import logging
 import subprocess
